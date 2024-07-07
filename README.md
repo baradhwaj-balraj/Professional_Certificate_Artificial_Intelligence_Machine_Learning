@@ -2,7 +2,7 @@
 ## In this exercise the goal was to take a dataset found on Kaggle regarding used car features and price to determine which factors have an impact on car price.  Upon completion should be able to inform Used Car Dealerships what features consumers value in a car.
 ### In the attached folder there is a Jupyter notebook in which data analysis was performed to determine which features of Used Cars impact the price of used cars the most. Use Jupyter Notebook link to access the notebook through Jupyter. If you want access to look over Notebook in GitHub just open through the folder in this second link.  
 ### [Jupyter Notebook](http://localhost:8889/notebooks/Module11PracticalAssignment/BalrajFinalPracticalApplication11.ipynb)
-### [Practical Application Assignment 11.1: What Drives Price of A Car](https://github.com/baradhwaj-balraj/Professional_Certificate_Artificial_Intelligence_Machine_Learning/tree/008c0bd6db680028376316fa39f22b832e7d19d2/BalrajPracticalApplicationAssignment)
+### [Practical Application Assignment 11.1: What Drives Price of A Car](https://github.com/baradhwaj-balraj/Professional_Certificate_Artificial_Intelligence_Machine_Learning/tree/main/PracticalApplciation11.1WhatImpactsPriceOfCar)
 ### The Findings Were:
 ##### The 4 features that most impacted the price of used cars in order were: 
 ##### 1.) Year of the car model  
