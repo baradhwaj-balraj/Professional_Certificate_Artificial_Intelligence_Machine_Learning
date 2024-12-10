@@ -25,8 +25,8 @@ One area for further exploration should be to see how the features: number of ma
 
 ### Outline of project
 
-- [Link to Jupyter Notebook With In-Depth Analysis]()
-- [Link to Folder With Jupyter Notebook & data used]()
+- [Link to Jupyter Notebook With In-Depth Analysis](https://github.com/baradhwaj-balraj/Professional_Certificate_Artificial_Intelligence_Machine_Learning/blob/da8f9cd52e2116ec521aab109b1725f3b24dcdc0/BalrajCapstoneProject/BalrajCapstoneFinal.ipynb)
+- [Link to Folder With Jupyter Notebook & data used](https://github.com/baradhwaj-balraj/Professional_Certificate_Artificial_Intelligence_Machine_Learning/tree/da8f9cd52e2116ec521aab109b1725f3b24dcdc0/BalrajCapstoneProject)
 
 
 #### Contact and Further Information
