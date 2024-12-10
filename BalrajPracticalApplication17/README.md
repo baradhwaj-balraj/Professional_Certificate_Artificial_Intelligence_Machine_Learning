@@ -1,4 +1,4 @@
-#  Practical Application Assignment 17: Comparing Classifiers
+#  Practical Application Assignment Module 17: Comparing Classifiers
 ## In this practical application, the objective is to explore a marketing dataset from a portugese banking institution. Additionally,in this practical application need to compare and contrast the performance of various classification models (Logistic Regression, K-Nearest Neighbors, SVM, and Decision Trees) to determine which performs best when predicting client churn.
 ### In the second link there is a folder containing a Jupyter notebook in which the performance of various classification models were evaluated to determine which model would be best for predicting churn. If you want access to look over the notebook in GitHub just open through the folder in this second link.  
 ### [Jupyter Notebook](http://localhost:8889/notebooks/BalrajModule17PracticalAssignment/BalrajFinalPracticalApplication17.ipynb)
