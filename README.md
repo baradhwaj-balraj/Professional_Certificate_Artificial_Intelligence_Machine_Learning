@@ -4,16 +4,15 @@
 
 ## Executive summary
 
-### Research Question
-What are you trying to answer?
-s it possible to create a reliable model to predict if a patient will have Cardiovascular Disease and What factors should be frequently observed by healthcare professionals to diagnose Cardiovascular Disease?
+### Research Question - What Are You Trying To Answer?
+Is it possible to create a reliable model to predict if a patient will have Cardiovascular Disease and What factors should be frequently observed by healthcare professionals to diagnose Cardiovascular Disease?
 
-### Rationale
-Why should anyone care about this question?
+### Rationale - Why Should Anyone Care About This Question?
 According to the CDC in the year 2022, 702,880 people died from heart disease, which is equivalent to 1 in 5 deaths.  Additionally, according to the CDC, heart disease cost about $252.2 billion from 2019 to 2020 which includes the cost of health care services, medicines, and lost productivity due to death.  This question is important for two reasons. One reason is because if it is possible to know what factors most contribute to heart disease, it would be possible for healthcare professionals to monitor those important factors to determine wether or not patients might be in risk for heart disease and can diagnose them early and get the patients the necessary care.  The second reason is if you can predict wether patients have heart disease using a model it would be possible to test someone who isn’t known to have heart disease and diagnose wether heart disease is prevalent in them or not.  If heart disease is diagnosed early it can help prevent serious complications such as heart attack, strokes, and heart failure by implementing preventative strategies.
 
 ### Data Sources
 The data source is a database from the UCI ML learning repository that contains 14 features of numerous patients that have and don’t have heart disease in the city of Cleveland.
+
 Link: https://archive.ics.uci.edu/dataset/45/heart+disease  
 
 ### Methodology
@@ -28,7 +27,7 @@ One area for further exploration should be to see how the features: number of ma
 ### Outline of project
 
 - [Link to Jupyter Notebook With In-Depth Analysis]()
-- [Link to Folder With Jupyter Notebook & data used]()
+- [Link to Folder With Jupyter Notebook & Data]()
 
 
 #### Contact and Further Information
